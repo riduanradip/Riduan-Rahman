@@ -35,7 +35,7 @@
 
 
 ### 🧪 Current R&D (Research & Development)
-
+ <div align="center">
 <table width="100%">
   <tr>
     <td width="50%">
@@ -50,11 +50,12 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
 ### 📂 Featured Project: [The Intelligent Notepad]
-> **Architecture:** Clean Architecture + Hive DB
+> **Architecture:** Clean Architecture + Hive DB   <br/>
 > **Status:** Integrating AI-powered NLP for automated note categorization.
 
 
